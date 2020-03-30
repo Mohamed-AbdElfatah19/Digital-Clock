@@ -1,4 +1,4 @@
-# Digital-Clock
+# Digital-Clock-PIC16F887
 Description : digital clock consists of 4 SSD and there's 3 switchs (set , plus , minus) 
 set   to change mode ,
 plus  to increase hours or minutes, 
